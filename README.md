@@ -21,6 +21,26 @@ __셋 째__, 두번 째에 언급한 코드리뷰의 활용을 극대화 하기�
 
 저의 이력서가 궁금하시다면 눌러주세요! ➡ [이력서 링크](https://www.canva.com/design/DAEPvmbP0Ec/flLa1j7dk3zqx-RXWGF2kA/view?utm_content=DAEPvmbP0Ec&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
+## 🖥 Tech Stack
+### front-end
+- HTML/CSS
+- JavaScript
+- TypeScript
+- AngularTS
+
+### back-end
+- NodeJS
+- Express
+- Python
+- Django
+- MySQL
+- MongoDB
+
+### etc
+- Git, GitHub
+- AWS EC2, RDS
+- Docker
+
 <!--
 **dooyeonk/dooyeonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
