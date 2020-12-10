@@ -1,4 +1,10 @@
 <h1 align="center"> 안녕하세요, 개발자 '강두연' 입니다. </h3>
+<p align="center">
+  <a href="https://velog.io/@dooyeonk"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dooyeonk"/></a>&nbsp
+  <a href="https://www.instagram.com/dooyeonk_95/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dooyeonk_95/"/></a>&nbsp
+  <a href="mailto:dyhouse0517@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dyhouse0517@gmail.com"/></a>
+  <a href="https://www.canva.com/design/DAEPvmbP0Ec/flLa1j7dk3zqx-RXWGF2kA/view?utm_content=DAEPvmbP0Ec&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"><img src="https://img.shields.io/badge/RESUME-11B48A?style=flat-square&logo=Read%20the%20Docs&logoColor=white&link=https://www.canva.com/design/DAEPvmbP0Ec/flLa1j7dk3zqx-RXWGF2kA/view?utm_content=DAEPvmbP0Ec&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"/></a>&nbsp
+</p>
 
 ## 저는요..
 
@@ -21,8 +27,6 @@ __셋 째__, 두번 째에 언급한 코드리뷰의 활용을 극대화 하기�
 
 요약하자면 저는, __코드 리뷰__를 하는 문화를 선호하며 코드 한 줄을 작성해도 __근거와 목적__을 확실하게 하여 추후에 발생할 수 있는 오류를 사전에 대비하고 예방하는 것이 저의 개발 철학입니다.
 
-저의 이력서가 궁금하시다면 눌러주세요! ➡ [이력서 링크](https://www.canva.com/design/DAEPvmbP0Ec/flLa1j7dk3zqx-RXWGF2kA/view?utm_content=DAEPvmbP0Ec&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
-
 <h3 align="center"> 🖥 Tech Stack </h3>
 
 <p align="center">
@@ -40,8 +44,8 @@ __셋 째__, 두번 째에 언급한 코드리뷰의 활용을 극대화 하기�
   <img src="https://img.shields.io/badge/MongoDB-00c5b5?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/AWS-00c5b5?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Docker-00c5b5?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
-</p>
-  
+</p><br>
+
 <!--
 **dooyeonk/dooyeonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
