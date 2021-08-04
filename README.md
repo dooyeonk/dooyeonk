@@ -26,10 +26,10 @@
 
 <p align="left">
 <!--   <a href="https://velog.io/@dooyeonk"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dooyeonk"/></a>&nbsp -->
-  <a href="https://www.instagram.com/dooyeonk_95/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dooyeonk_95/"/></a>&nbsp
+<!--   <a href="https://www.instagram.com/dooyeonk_95/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dooyeonk_95/"/></a>&nbsp
   <a href="mailto:dyhouse0517@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dyhouse0517@gmail.com"/></a>
   <a href="https://www.canva.com/design/DAEPvmbP0Ec/flLa1j7dk3zqx-RXWGF2kA/view?utm_content=DAEPvmbP0Ec&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"><img src="https://img.shields.io/badge/RESUME-11B48A?style=flat-square&logo=Read%20the%20Docs&logoColor=white&link=https://www.canva.com/design/DAEPvmbP0Ec/flLa1j7dk3zqx-RXWGF2kA/view?utm_content=DAEPvmbP0Ec&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"/></a>&nbsp
-</p>
+</p> -->
 <!--
 **dooyeonk/dooyeonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
