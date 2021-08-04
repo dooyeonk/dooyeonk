@@ -20,6 +20,10 @@
 </p><br> -->
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dooyeonk&count_private=true&theme=tokyonight&showicons=true)]()
 
+<br>
+
+<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dooyeonk&langs_count=5&theme=tokyonight)]() -->
+
 <p align="left">
   <a href="https://velog.io/@dooyeonk"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dooyeonk"/></a>&nbsp
   <a href="https://www.instagram.com/dooyeonk_95/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dooyeonk_95/"/></a>&nbsp
