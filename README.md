@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/AWS-00c5b5?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Docker-00c5b5?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
 </p><br> -->
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dooyeonk&count_private=true&theme=tokyonight&showicons=true)]()
+<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dooyeonk&count_private=true&theme=tokyonight&showicons=true)]() -->
 
 <br>
 
